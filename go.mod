@@ -5,7 +5,7 @@ go 1.16
 require (
 	github.com/Masterminds/semver/v3 v3.1.1
 	github.com/bgentry/speakeasy v0.1.0 // indirect
-	github.com/editorconfig/editorconfig-core-go/v2 v2.4.4
+	github.com/editorconfig/editorconfig-core-go/v2 v2.5.1
 	github.com/fatih/color v1.9.0 // indirect
 	github.com/go-ldap/ldap/v3 v3.4.3
 	github.com/go-macaron/binding v1.2.0
@@ -57,7 +57,7 @@ require (
 	gopkg.in/DATA-DOG/go-sqlmock.v2 v2.0.0-20180914054222-c19298f520d0
 	gopkg.in/alexcesaro/quotedprintable.v3 v3.0.0-20150716171945-2caba252f4dc // indirect
 	gopkg.in/gomail.v2 v2.0.0-20160411212932-81ebce5c23df
-	gopkg.in/ini.v1 v1.66.4
+	gopkg.in/ini.v1 v1.67.0
 	gopkg.in/macaron.v1 v1.4.0
 	gorm.io/driver/mysql v1.3.3
 	gorm.io/driver/postgres v1.3.4
